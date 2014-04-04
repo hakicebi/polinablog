@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: ddrnkimr7
+  api_key: '881326245644523'
+  api_secret: Tr4uVBVqrITuERduX7XVmoz_7K4
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: ddrnkimr7
+  api_key: '881326245644523'
+  api_secret: Tr4uVBVqrITuERduX7XVmoz_7K4
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: ddrnkimr7
+  api_key: '881326245644523'
+  api_secret: Tr4uVBVqrITuERduX7XVmoz_7K4
+  enhance_image_tag: true
+  static_image_support: false
